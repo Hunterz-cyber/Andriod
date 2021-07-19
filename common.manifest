@@ -1,0 +1,236 @@
+ManifestFileVersion: 0
+CRC: 1404607758
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b7976ca16c6cce9bd1d4fb94a3236ced
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: a84533d2e0a612e901b6c84906663695
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 20
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 54
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 81
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 89
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 108
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: dc42784cf147c0c48a680349fa168899, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 556797029e73b2347956b6579e77e05b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 77624f28614e33247a9ad124a2d27f78, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5761b7a173b74bb46b9297f7b1cfeb90, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0cd44c1031e13a943bb63640046fad76, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 76c392e42b5098c458856cdf6ecaaaa1, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ebd288e549b27ea45a4e4d5cb701e642, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4f231c4fb786f3946a6b90b886c48677, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c731488a5c82e104e96ce92a74a2bad0, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ef36d2a7087abab42be5ab280df89ef2, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8e6292b2c06870d4495f009f912b9600, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: adb84e30e02715445aeb9959894e3b4d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 639b0763727891441a9145c6a1ee664a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8b9a305e18de0c04dbd257a21cd47087, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c1cb7e9e120078f43bce4f0b1be547a7, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+- Class: 143
+  Script: {instanceID: 0}
+- Class: 183
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 223
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+- Class: 238
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Models/Trees & Bushes/Bush1_WF.fbx
+- Assets/Scenes/PauseScreen/Asset 1.png
+- Assets/Models/Trees & Bushes/Materials/Green.mat
+- Assets/Farm Life/FarmLife_Editable/Materials/FinalMaterials/Sand_1.mat
+- Assets/2nd sequence/2nd seq prefab/Grass_Base Variant.prefab
+- Assets/Farm Life/FarmLife_Editable/Prefabs/Trees & Bushes/Tree_4b.prefab
+- Assets/Polyart/PolyartStudio/DreamscapeMeadows/Textures/Terrain/Terrain_01_N.png
+- Assets/Farm Life/FarmLife_Editable/Meshes/Rocks/Rock_3.fbx
+- Assets/Farm Life/FarmLife_Editable/Prefabs/Rocks/Rock_3.prefab
+- Assets/Scenes/PauseScreen/Asset 4.png
+- Assets/Farm Life/FarmLife_Editable/Meshes/Plants/Materials/Flower2.mat
+- Assets/Farm Life/FarmLife_Editable/Prefabs/Rocks/Rock_2.prefab
+- Assets/Farm Life/FarmLife_Editable/Materials/FinalMaterials/Green_2.mat
+- Assets/Farm Life/FarmLife_Editable/Prefabs/Plants/Flower (1).prefab
+- Assets/2D/UI/Glow Touch/Touch With Stroke/pointer.anim
+- Assets/idle n fly talk/Comp 1/idle fly talk_00004.png
+- Assets/Farm Life/FarmLife_Editable/Materials/FinalMaterials/Wood_3.mat
+- Assets/Farm Life/FarmLife_Editable/Meshes/Plants/Flower.fbx
+- Assets/Prefabs/flower.prefab
+- Assets/Farm Life/FarmLife_Editable/Prefabs/Trees & Bushes/Tree_2_Medium (1).prefab
+- Assets/2D/UI/Glow Touch/Touch With Stroke/2.psd
+- Assets/Fantasy Skybox FREE/Materials/Classic/Materials/FS000_Day_05.mat
+- Assets/idle n fly talk/Comp 1/idle fly talk_00006.png
+- Assets/Farm Life/FarmLife_Editable/Materials/FinalMaterials/Orange_2.mat
+- Assets/Farm Life/FarmLife_Editable/Materials/FinalMaterials/RedDark_3.mat
+- Assets/Farm Life/FarmLife_Editable/Meshes/Props/Materials/CMetal.mat
+- Assets/Farm Life/FarmLife_Editable/Prefabs/Trees & Bushes/Tree_6_Low.prefab
+- Assets/idle n fly talk/Comp 1/idle fly talk_00010.png
+- Assets/Farm Life/FarmLife_Editable/Meshes/Plants/Materials/Green.mat
+- Assets/Farm Life/FarmLife_Editable/Materials/FinalMaterials/Ground_1.mat
+- Assets/Farm Life/FarmLife_Editable/Meshes/Rocks/Rock_5.fbx
+- Assets/Farm Life/FarmLife_Editable/Meshes/Props/Barrel.fbx
+- Assets/Fantasy Skybox FREE/Materials/Classic/FS000_Day_05.png
+- Assets/Farm Life/FarmLife_Editable/Prefabs/Rocks/Rock_5.prefab
+- Assets/Farm Life/FarmLife_Editable/Meshes/Rocks/Rock_1.fbx
+- Assets/Farm Life/FarmLife_Optimised/Meshes/FBX Binary/Windmill.fbx
+- Assets/Polyart/PolyartStudio/DreamscapeMeadows/Textures/Terrain/T_Grass_Ground_C2.png
+- Assets/Farm Life/FarmLife_Editable/Prefabs/Rocks/Rock_6.prefab
+- Assets/Models/Trees & Bushes/Tree_2_Medium.fbx
+- Assets/Farm Life/FarmLife_Editable/Meshes/Rocks/Rock_4.fbx
+- Assets/Farm Life/FarmLife_Editable/Materials/FinalMaterials/White_2.mat
+- Assets/Polyart/PolyartStudio/DreamscapeMeadows/Materials/Terrain/M_Terrain_01.mat
+- Assets/idle n fly talk/Comp 1/Post Processing.prefab
+- Assets/Models/TASSELS.mat
+- Assets/Models/Trees & Bushes/Tree_2_High_WF.fbx
+- Assets/Models/Magic_Carpet.fbx
+- Assets/idle n fly talk/Comp 1/turtle.controller
+- Assets/idle n fly talk/Comp 1/idle fly talk_00007.png
+- Assets/idle n fly talk/Comp 1/idle fly talk_00002.png
+- Assets/Farm Life/FarmLife_Editable/Prefabs/Trees & Bushes/Tree_2_High_WF.prefab
+- Assets/Materials/2aladdin-s-carpet 1.mat
+- Assets/Farm Life/FarmLife_Editable/Meshes/Props/Materials/CWood5.mat
+- Assets/UJoystick/Content/Art/UI/FilledCircle.png
+- Assets/Prefabs/Base.prefab
+- Assets/A.png
+- Assets/2D/UI/Glow Touch/Touch With Stroke/5.psd
+- Assets/Models/Trees & Bushes/Materials/Stump.mat
+- Assets/Scenes/PauseScreen/Asset 10.png
+- Assets/Textures/2aladdin-s-carpet1.psd
+- Assets/Polyart/PolyartStudio/DreamscapeMeadows/Textures/Terrain/T_DirtGround_C.png
+- Assets/smallA.png
+- Assets/Farm Life/FarmLife_Optimised/Meshes/Atlas.png
+- Assets/Models/Trees & Bushes/Tree_3_WF_Medium.fbx
+- Assets/Audio/BGM/BGM.mp3
+- Assets/2D/UI/Glow Touch/Touch With Stroke/4.psd
+- Assets/2D/UI/Glow Touch/Touch With Stroke/1.psd
+- Assets/idle n fly talk/Comp 1/idle.anim
+- Assets/Scenes/MainScene/NavMesh.asset
+- Assets/Farm Life/FarmLife_Editable/Materials/FinalMaterials/Orange_1.mat
+- Assets/Farm Life/FarmLife_Editable/Prefabs/Rocks/Rock_1.prefab
+- Assets/Farm Life/FarmLife_Editable/Prefabs/Plants/Flower.prefab
+- Assets/Farm Life/FarmLife_Editable/Meshes/Plants/Materials/COrange.mat
+- Assets/Farm Life/FarmLife_Editable/Meshes/Grounds/Grass_Base.fbx
+- Assets/Farm Life/FarmLife_Editable/Meshes/Rocks/Materials/CRocks.mat
+- Assets/Farm Life/FarmLife_Editable/Materials/FinalMaterials/Blue_3.mat
+- Assets/Farm Life/FarmLife_Editable/Meshes/Rocks/Rock_7.fbx
+- Assets/Farm Life/FarmLife_Editable/Materials/FinalMaterials/Green_1.mat
+- Assets/Farm Life/FarmLife_Editable/Prefabs/Rocks/Rock_7.prefab
+- Assets/Models/Trees & Bushes/Tree_1_High.fbx
+- Assets/Scenes/PauseScreen/Asset 5.png
+- Assets/Farm Life/FarmLife_Editable/Meshes/Rocks/Rocks_3.fbx
+- Assets/Farm Life/FarmLife_Editable/Meshes/Props/Fence_1.fbx
+- Assets/Prefabs/NavigationWithCarpet.prefab
+- Assets/Models/Trees & Bushes/Tree_6_Low.fbx
+- Assets/idle n fly talk/Comp 1/idle fly talk_00001.png
+- Assets/Models/Trees & Bushes/Materials/CYellow.mat
+- Assets/UJoystick/Content/Prefab/Joystick.prefab
+- Assets/Polyart/PolyartStudio/DreamscapeMeadows/Textures/Terrain/T_StoneGround_C.tga
+- Assets/Scenes/PauseScreen/Asset 3.png
+- Assets/Farm Life/FarmLife_Editable/Materials/FinalMaterials/Orange_3.mat
+- Assets/idle n fly talk/Comp 1/idle fly talk_00003.png
+- Assets/Farm Life/FarmLife_Editable/Meshes/Vehicles_separeted/Barrow.fbx
+- Assets/Scenes/PauseScreen/Asset 2.png
+- Assets/Farm Life/FarmLife_Editable/Prefabs/Plants/Flower (3).prefab
+- Assets/Farm Life/FarmLife_Editable/Meshes/Rocks/Rock_2.fbx
+- Assets/idle n fly talk/Comp 1/idle fly talk_00009.png
+- Assets/Farm Life/FarmLife_Editable/Prefabs/Trees & Bushes/Tree_1_Low (2).prefab
+- Assets/Scenes/PauseScreen/Pause.prefab
+- Assets/idle n fly talk/Comp 1/idle fly talk_00011.png
+- Assets/UniWebView/vehicle.png
+- Assets/Models/Trees & Bushes/Tree_4b.fbx
+- Assets/Farm Life/FarmLife_Editable/Prefabs/Rocks/Rocks_3.prefab
+- Assets/Scenes/DeepSpaceBlue/Materials/leftImage.mat
+- Assets/Farm Life/FarmLife_Editable/Prefabs/Trees & Bushes/Bush1_WF.prefab
+- Assets/Farm Life/FarmLife_Editable/Meshes/Grounds/Materials/Ground_Grass.mat
+- Assets/Farm Life/FarmLife_Editable/Meshes/Props/Materials/CWood_10.mat
+- Assets/Polyart/PolyartStudio/DreamscapeMeadows/Textures/Terrain/Terrain_01_R.png
+- Assets/Farm Life/FarmLife_Editable/Prefabs/Plants/Flower (2).prefab
+- Assets/Models/Trees & Bushes/Tree_1_Low.fbx
+- Assets/2D/Post Processing Profile.asset
+- Assets/Models/Trees & Bushes/Materials/CPink.mat
+- Assets/Polyart/PolyartStudio/Shaders/Dreamscape_WorldAlignedBlend.shader
+- Assets/Models/Trees & Bushes/Materials/Green_Bright.mat
+- Assets/Animations/Tassels.controller
+- Assets/idle n fly talk/Comp 1/idle fly talk_00008.png
+- Assets/Farm Life/FarmLife_Editable/Prefabs/Rocks/Rock_4.prefab
+- Assets/UJoystick/Content/Art/UI/OutLineCircle.png
+- Assets/Farm Life/FarmLife_Editable/Prefabs/Trees & Bushes/Tree_3_WF_Medium.prefab
+- Assets/2D/UI/Glow Touch/Touch With Stroke/3.psd
+- Assets/2D/UI/Glow Touch/Touch With Stroke/pointer.controller
+- Assets/idle n fly talk/Comp 1/idle fly talk_00000.png
+- Assets/Farm Life/FarmLife_Editable/Meshes/Props/Materials/CWood2.mat
+- Assets/Farm Life/FarmLife_Editable/Meshes/Props/Materials/CWood_9.mat
+- Assets/Farm Life/FarmLife_Editable/Materials/FinalMaterials/Red_1.mat
+- Assets/Farm Life/FarmLife_Editable/Prefabs/Trees & Bushes/Tree_1_High.prefab
+- Assets/Farm Life/FarmLife_Editable/Materials/FinalMaterials/White_3.mat
+- Assets/idle n fly talk/Comp 1/idle fly talk_00005.png
+- Assets/Farm Life/FarmLife_Editable/Meshes/Rocks/Rock_6.fbx
+- Assets/Models/Trees & Bushes/Tree_6_Medium.fbx
+- Assets/Farm Life/FarmLife_Optimised/Meshes/FBX Binary/Wheat_Multiple.fbx
+Dependencies: []

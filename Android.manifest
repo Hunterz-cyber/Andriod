@@ -1,0 +1,15 @@
+ManifestFileVersion: 0
+CRC: 3052939048
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: k-l1-e-1
+      Dependencies:
+        Dependency_0: common
+    Info_1:
+      Name: k-l1-e-4
+      Dependencies:
+        Dependency_0: common
+    Info_2:
+      Name: common
+      Dependencies: {}
